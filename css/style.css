@@ -83,7 +83,7 @@ body{
            Banner css start 
 ************************************************** */
 #banner_part{
-    background: url(/image/Wave.png);
+    background: url(../image/Wave.png);
     padding: 170px 0 260px;
     background-position: center;
     background-repeat: no-repeat;
@@ -227,7 +227,7 @@ margin-bottom: 80px;
            Footer css start 
 ************************************************** */
 #Footer1_part{
-    background: url(/image/Vector\ \(1\).png);
+    background: url(../image/Vector\ \(1\).png);
     padding: 631px 06px 17px;
     background-position: center;
     background-repeat: no-repeat;
